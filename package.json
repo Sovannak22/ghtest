@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://sovannak22.github.io/ghtest",
+  "homepage": "https://sovannak22.github.io/ghtest/test.html",
   "dependencies": {
     "gh-pages": "^2.0.0"
   }
